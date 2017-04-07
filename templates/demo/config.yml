@@ -1,8 +1,8 @@
-name: Demo App
+name: HANA
 description: >
           A Demo App which does almost nothing of any practical value.
 version: 0.0.1-rancher1
-category: Demo Apps
-maintainer: Nathan Valentine <nathan@rancher.com|nrvale0@gmail.com>
+category: HANA
+maintainer: Techwave <saikrishna.rayapati@techwave.net>
 license: not-licensed
 projectURL: https://github.com/srikrishna070/catlog-demo.git
