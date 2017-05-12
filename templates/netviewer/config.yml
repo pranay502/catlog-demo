@@ -1,0 +1,8 @@
+name: HANA
+description: >
+          Yet to add description.
+version: 0.0.1-rancher1
+category: NetViewer
+maintainer: Techwave <saikrishna.rayapati@techwave.net>
+license: not-licensed
+projectURL: https://github.com/srikrishna070/catlog-netviewer.git
